@@ -2,6 +2,10 @@
 
 # Sesión — Mental Health Practice Orchestration Platform
 
+<!-- hy-mt2-i18n:start -->
+**English** · [中文](./README_zh-CN.md) · [日本語](./README_ja.md) · [Español](./README_es.md)
+<!-- hy-mt2-i18n:end -->
+
 **Sesión** is a purpose-built SaaS operating system for psychology clinics and independent practitioners in Argentina, unifying clinical, administrative, and communication workflows into a single intelligent environment. This repository contains the core orchestration engine that coordinates appointment scheduling, automated WhatsApp messaging, billing and invoicing, secure video consultations, and an integrated AI layer powered by Claude Opus 4.6 and Sonnet 4.6 models.
 
 ## Overview
